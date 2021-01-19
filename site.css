@@ -1,0 +1,32 @@
+h1 {
+ font-family : verdana;
+ color: #64D5F7;
+ border-width:4px;
+ border-style:outset;
+ border-color:#64D5F7;
+ border-radius: 15px 0;
+ }
+h2 {
+ font-family : verdana;
+ font-size : 120%
+}
+body {
+background-image: url("Fond_d_ecran.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+color: white
+}
+p {
+font-family : verdana;
+color: #64D5F7;
+border-width:2px;
+border-style:outset;
+border-color:#64D5F7;
+}
+a {
+font-family : verdana;
+color: #64D5F7;
+border-width:2px;
+border-style:outset;
+border-color:#64D5F7;
+}
